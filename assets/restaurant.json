@@ -1,0 +1,101 @@
+[
+  {
+    "address": "Tirtodipuran St No.24A, Mantrijeron, Yogyakarta City, Special Region of Yogyakarta 55143",
+    "restaurantName": "Mediterranea Restaurant by Kamil",
+    "description": "Kafe dengan interiornya yg minimalis dan menggunakan wood, menyajikan menu French dan Mediterranean.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipPxHqQPjnFRNnuYWB5aab-bqZHFx0-hkldNLS5E=s680-w680-h510",
+    "rating": "4.7",
+    "review": "Great ambiance, menu, portion sizes, prices, service and quality."
+  },
+  {
+    "address": "Jl. Magangan Kulon No.1, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",
+    "restaurantName": "Bale Raos - The Sultan's Dishes",
+    "description": "Casual restaurant in a museum complex serving Javanese classics also eaten by the royal family.",
+    "price": "2",
+    "urlToImage": "https://lh5.googleusercontent.com/p/AF1QipPknH_Mc3Nw7QkW8YmmzGZqfM-y8dVGDXWtwBaY=w260-h175-n-k-no",
+    "rating": "4.5",
+    "review": "The place is cozy, perfect service, and tasty food."
+  },
+  {
+    "address": "Jl. Faridan M Noto No.7, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
+    "restaurantName": "The House of Raminten",
+    "description": "Bustling, late-night kitchen serving classic Javanese fare in vintage digs with traditional decor.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipNFQ-Uxn0hncLd1nj6der9Ufi0X8EBgebSDiVVF=s680-w680-h510",
+    "rating": "4.5",
+    "review": "Good place, good service, tasty food, affordable price"
+  },
+  {
+    "address": "Jl. Kompol Bambang Suprapto, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225",
+    "restaurantName": "Dapur Manado Restaurant",
+    "description": "Manado entrees & desserts are turned out in this airy, down-to-earth restaurant.",
+    "price": "2",
+    "urlToImage": "https://lh5.googleusercontent.com/p/AF1QipNuLhQGtecn4D3Be4VwCKwcxfrpTnlP09ct1mBf=w260-h175-n-k-no",
+    "rating": "4.5",
+    "review": "Comfy place to dine in with all the tables set up for family purpose."
+  },
+  {
+    "address": "Jl. Nyi Ageng Nis No.9, Rejowinangun, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55171",
+    "restaurantName": "Bakmi Jowo Mbah Gito",
+    "description": "Busy, rustic-chic noodle house dishing up traditional bowls in down-to-earth surrounds.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipMTit-Ji9VqHlNmGbS0ECVdcbQ6tXWn0xyLTqQm=s1360-w1360-h1020",
+    "rating": "4.3",
+    "review": "Food, service and price are great but the place is more like a Halloween site."
+  },
+  {
+    "address": "Jl. Moses Gatotkaca No.B 9 - 14, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+    "restaurantName": "Nanamia Pizzeria Jogja (North Area)",
+    "description": "Tempat makan yg berkonsep outdoor menyajikan aneka menu Italia dengan resep otentik yg berkualitas.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipNFL6Ak67WDbHKKHEt6krZQSnzNK40Z_TLg5g_x=s1360-w1360-h1020",
+    "rating": "4.7",
+    "review": "Affordable price, good service, nice ambience, tasty food"
+  },
+  {
+    "address": "Jl. Sultan Agung No.58, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151",
+    "restaurantName": "Pizza Hut Sultan Agung",
+    "description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "price": "2",
+    "urlToImage": "https://lh5.googleusercontent.com/p/AF1QipNqsnpXACZ7ywIlStRSNveNHMrCmyOqw-rZh2e_=w260-h175-n-k-no",
+    "rating": "4.5",
+    "review": "Service is a bit slow but food quality and atmosphere are incredible!"
+  },
+  {
+    "address": "Jl. Sultan Agung No.24, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151",
+    "restaurantName": "McDonald's Sultan Agung",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipMg86_yfIBPSXWywQ1-96IymfKfu6R2FvbSwqF4=s1360-w1360-h1020",
+    "rating": "4.6",
+    "review": "Good food, good place, nice people and service."
+  },
+  {
+    "address": "Jl. DI Panjaitan No.39, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55143",
+    "restaurantName": "Sixsenses Kitchen",
+    "description": "High-end dining room with a terrace offering international dishes in elegant surrounds.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipNShqIGYuPca5naecnbdqewe5zKN3P_OQRqdzww=s1360-w1360-h1020",
+    "rating": "4.5",
+    "review": "We ordered the roasted Chicken, Risotto, grilled Salmon and Papperoni Pizza."
+  },
+  {
+    "address": "Jl. Kartini No.8, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223",
+    "restaurantName": "Restoran Bumbu Desa",
+    "description": "Spacious, relaxed restaurant offering Sundanese dishes, plus an open-air terrace.",
+    "price": "2",
+    "urlToImage": "https://lh5.googleusercontent.com/p/AF1QipN8x9F5axeR_OgbQZN2GNjGzTuO62WsoxMTxNN9=w260-h175-n-k-no",
+    "rating": "4.5",
+    "review": "Wide variety of tasty menu, good service, nice ambience.."
+  },
+  {
+    "address": "Jl. Laksda Adisucipto No.22, Demangan, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55221",
+    "restaurantName": "Lombok Idjo Jogja Adisoetjipto",
+    "description": "Javanese specialties such as fishcakes & sambal on offer in this airy, relaxed eatery.",
+    "price": "2",
+    "urlToImage": "https://lh3.googleusercontent.com/p/AF1QipNZAGT3xRUwX2hx067C_eqSEUiGhioChtxVAbnM=s1360-w1360-h1020",
+    "rating": "4.5",
+    "review": "Good food, good service, and a good place for family."
+  }
+]
